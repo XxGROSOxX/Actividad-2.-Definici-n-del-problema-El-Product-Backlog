@@ -6,7 +6,8 @@
 
 
 ## Enlace al PDF
-Agregar aqui el enlace al PDF final o a la carpeta `/docs` del repositorio.
+https://github.com/XxGROSOxX/Actividad-2.-Definici-n-del-problema-El-Product-Backlog/blob/main/docs/FlashLogistics_MVP_DSS_Actividad_02.pdf
+
 
 ## 1. Vision del producto
 Para el gerente de operaciones, despachadores y conductores de FlashLogistics que necesitan planificar y controlar entregas con informacion confiable, **FlashRoute DSS** es una plataforma web/PWA de soporte a decisiones logisticas que optimiza rutas, monitorea pedidos y camiones, y ofrece KPIs operativos. A diferencia de la pizarra, Excel y las llamadas manuales, el producto centraliza datos, alerta desviaciones y recomienda acciones para reducir retrasos, combustible y carga cognitiva.
