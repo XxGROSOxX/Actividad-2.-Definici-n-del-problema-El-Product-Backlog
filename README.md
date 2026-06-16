@@ -76,3 +76,40 @@ flashlogistics-dss-mvp/
 │   └── ISSUE_TEMPLATE/
 └── README.md
 ```
+
+
+## Actividad 4 - Arquitectura y Refinamiento
+
+### Modelo de Contexto del Sistema
+
+![Modelo de Contexto](docs/act4_00_modelo_contexto_sistema.png)
+
+### HU-02: Importar pedidos desde CSV
+
+**Diagrama de Casos de Uso**
+
+![Caso de Uso HU-02](docs/act4_hu02_casos_uso_importacion_csv.png)
+
+**Diagrama de Secuencia**
+
+![Secuencia HU-02](docs/act4_hu02_secuencia_importacion_csv.png)
+
+### HU-04: Generar propuesta de ruta
+
+**Diagrama de Casos de Uso**
+
+![Caso de Uso HU-04](docs/act4_hu04_casos_uso_generar_ruta.png)
+
+**Diagrama de Secuencia**
+
+![Secuencia HU-04](docs/act4_hu04_secuencia_generar_ruta.png)
+
+### HU-09: Dashboard DSS con KPIs y alertas
+
+**Diagrama de Casos de Uso**
+
+![Caso de Uso HU-09](docs/act4_hu09_casos_uso_dashboard_dss.png)
+
+**Diagrama de Secuencia**
+
+![Secuencia HU-09](docs/act4_hu09_secuencia_dashboard_dss.png)
